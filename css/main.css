@@ -33,6 +33,14 @@
     font-size: 130%;
 }
 
+#presentation_text p {
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 80%;
+}
+
 #icons {
     font-size: 200%;
     color: white;
@@ -103,4 +111,9 @@
 
 #dates {
     color: #bdbdbd;
+}
+
+.answer{
+    margin-left: 2%;
+    margin-right: 2%;
 }
